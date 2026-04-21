@@ -10,3 +10,4 @@ unmodified - unchanged
 git add <-file name->
 git add .
 git commit -m "message" 
+git push origin main
